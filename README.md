@@ -1,4 +1,10 @@
-### Hi there 👋
+### Howdy 🤘
+
+- Biostatistician in NYC!
+- 🌱 I’m currently looking for a PhD program!
+- 👯 I’m looking to collaborate on causal inference software
+- 📫 How to reach me: [Twitter](https://twitter.com/nickWillyamz)
+- 😄 Pronouns: He/Him
 
 <!--
 **nt-williams/nt-williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
