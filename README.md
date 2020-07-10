@@ -1,6 +1,6 @@
 ### Howdy 🤘
 
-- Biostatistician in NYC!
+- ➕ Biostatistician in NYC!
 - 🌱 I’m currently looking for a PhD program!
 - 👯 I’m looking to collaborate on causal inference software
 - 📫 How to reach me: [Twitter](https://twitter.com/nickWillyamz)
