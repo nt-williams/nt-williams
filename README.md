@@ -1,6 +1,6 @@
 ### Howdy 🤘
 
-I'm a bistatistician at Weill Cornell Medicine. I'm mainly interested in causal inference and statistical software development. 
+I'm a biostatistician at Weill Cornell Medicine. I'm mainly interested in causal inference and statistical software development. 
 
 <!--
 **nt-williams/nt-williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
