@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nt-williams)](https://github.com/anuraghazra/github-readme-stats)
+[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nt-williams&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
