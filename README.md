@@ -1,6 +1,6 @@
 ### Howdy
 
-I'm a biostatistician at Weill Cornell Medicine. I'm mainly interested in causal inference and research software engineering. 
+I'm a Senior Data Analyst at Columbia University. I'm mainly interested in causal inference and statistical computing in R and Julia. 
 
 <!--
 **nt-williams/nt-williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
