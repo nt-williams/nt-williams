@@ -14,5 +14,5 @@ I am particularly interested in:
 - **[lmtp](https://github.com/nt-williams/lmtp)** – An R package that provides an estimation framework for the casual effects of feasible interventions based on point-treatment and longitudinal modified treatment policies.
 - **[mlr3superlearner](https://github.com/nt-williams/mlr3superlearner)** – A modern implementation of the Super Learner prediction algorithm using the mlr3 framework.
 - **[crumble](https://github.com/nt-williams/crumble)** – An R package for general targeted machine learning for modern causal mediation analysis.
-- **[ife](https://github.com/nt-williams/ife)** - S7 class (with Ops) for influence function based estimands.
+- **[ife](https://github.com/nt-williams/ife)** - Forward mode autodiff for influence function based estimates.
 - **[codebreak](https://github.com/nt-williams/codebreak)** - A light weight codebook framework for R.
