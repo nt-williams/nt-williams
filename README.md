@@ -3,7 +3,7 @@
 🔗 **[CV](https://github.com/nt-williams/cv/blob/master/cv-ntwilliams.pdf) | [Google Scholar](https://scholar.google.com/citations?user=qbfagvkAAAAJ&hl=en)**
 
 ## 📌 About Me  
-I am a Senior Data Analyst at Columbia University, where I work on both methodological and application side causal inference. My work involves developing and maintaining research software for novel causal estimators.
+I'm a 1st year PhD student in Biostatistics at the University of California, Berkeley. I'm also a part-time Senior Data Analyst at Columbia University, where I work on both methodological and application side causal inference. My work involves developing and maintaining research software for novel causal estimators.
 
 I am particularly interested in:
 - **Nonparametric Causal Inference**  
